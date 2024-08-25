@@ -1,4 +1,3 @@
-// src/components/ImageList.tsx
 import{ useEffect, useState } from 'react';
 
 const ImageList = () => {
